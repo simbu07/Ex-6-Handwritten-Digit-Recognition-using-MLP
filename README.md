@@ -7,8 +7,7 @@ Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Theory:
-Handwritten digit recognition  has been a major area  of  research  in  the  field  of  Optical  Character Recognition  (OCR).  Based  on  the  input  to  the system,  handwritten  digit  recognition  can  be categorized into online and offline recognition. A dataset of 5000 samples were obtained from MNIST. The dataset was trained using  gradient descent  back-propagation algorithm  and further  tested using  the feed-forward  algorithm. The system  performance  is observed  by  varying the  number  of hidden  units and  the  number  of iterations.  The performance was thereafter compared to obtain the network with the optimal parameters. 
-
+Handwritten digit recognition  has been a major area  of  research  in  the  field  of  Optical  Character Recognition  (OCR).  Based  on  the  input  to  the system,  handwritten  digit  recognition  can  be categorized into online and offline recognition. A dataset of 5000 samples were obtained from MNIST. The dataset was trained using  gradient descent  back-propagation algorithm  and further  tested using  the feed-forward  algorithm. The system  performance  is observed  by  varying the  number  of hidden  units and  the  number  of iterations. 
 ## Algorithm :
 #### Step 1:
 Import the necessary libraries of python.
