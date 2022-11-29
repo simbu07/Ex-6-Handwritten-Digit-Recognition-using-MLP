@@ -126,14 +126,26 @@ def test_prediction(index, W1, b1, W2, b2):
     test_prediction(0, W1, b1, W2, b2)
 ```
 ## Output :
-![img](d1.png)
-![img](d2.png)
-![img](d3.png)
-![img](d4.png)
-![img](d5.png)
-![img](d6.png)
-![img](d7.png)
-![img](d8.png)
+### Y_TRAIN:
+![img](g1.png)
+### ITERATIONS FROM 1-100:
+![img](g2.png)
+### ITERATIONS FROM 110-230:
+![img](g3.png)
+ITERATIONS FROM 240-340:
+![img](g4.png)
+ITERATIONS FROM 350-450:
+![img](g5.png)
+### ITERATIONS FROM 460-490:
+![img](g6.png)
+### PREDICTING 5:
+![img](g7.png)
+### PREDICTING 2:
+![img](g8.png)
+### DEV_PREDICTIONS:
+![img](g9.png)
+### ACCURACY:
+![img](g10.png)
 
 
 ## Result:
