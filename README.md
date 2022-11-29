@@ -1,5 +1,5 @@
 
-# Ex-6-Handwritten Digit Recognition using MLP
+# Experiment-6-Handwritten Digit Recognition using MLP
 ## Aim:
 To Recognize the Handwritten Digits using Multilayer perceptron.
 
