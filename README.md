@@ -1,3 +1,4 @@
+
 # Ex-6-Handwritten Digit Recognition using MLP
 ## Aim:
 To Recognize the Handwritten Digits using Multilayer perceptron.
@@ -127,25 +128,32 @@ def test_prediction(index, W1, b1, W2, b2):
 ```
 ## Output :
 ### Y_TRAIN:
-![img](g1.png)
+![g1](https://user-images.githubusercontent.com/94525786/204548634-9214728c-c5bc-4daf-84c7-2d8fcfecfcd8.png)
 ### ITERATIONS FROM 1-100:
-![img](g2.png)
+![g2](https://user-images.githubusercontent.com/94525786/204548816-3c1d3ec5-d142-4a3d-bf7d-4a1fa2216835.png)
+
 ### ITERATIONS FROM 110-230:
-![img](g3.png)
-ITERATIONS FROM 240-340:
-![img](g4.png)
-ITERATIONS FROM 350-450:
-![img](g5.png)
+![g3](https://user-images.githubusercontent.com/94525786/204548862-8dd09262-cf79-44fe-9e76-238671402306.png)
+
+### ITERATIONS FROM 240-340:
+
+![g4](https://user-images.githubusercontent.com/94525786/204549001-32706fc4-ff60-4b61-8b9a-0bee595563dc.png)
+
+### ITERATIONS FROM 350-450:
+![g5](https://user-images.githubusercontent.com/94525786/204549084-f9abf793-493b-45d1-8d99-76bbacef1eea.png)
+
 ### ITERATIONS FROM 460-490:
-![img](g6.png)
+![g7](https://user-images.githubusercontent.com/94525786/204549134-0b46387c-d881-4867-8be2-78b16cab546d.png)
+
 ### PREDICTING 5:
-![img](g7.png)
-### PREDICTING 2:
-![img](g8.png)
+![g8](https://user-images.githubusercontent.com/94525786/204549205-10e0cbff-0f6d-4035-8521-0a29fcf5d243.png)
+
+
 ### DEV_PREDICTIONS:
-![img](g9.png)
+![g9](https://user-images.githubusercontent.com/94525786/204549289-b15ecf27-13c1-46d4-982c-15f43dfefc34.png)
+
 ### ACCURACY:
-![img](g10.png)
+![g10](https://user-images.githubusercontent.com/94525786/204549486-fb192477-d44e-43dc-807c-4fc923ff93d8.png)
 
 
 ## Result:
